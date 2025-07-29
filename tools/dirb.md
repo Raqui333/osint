@@ -18,3 +18,5 @@ dirb http://dominio.com
 ## Screenshot
 
 ![dirb output](/images/dirb_output.png)
+
+REFERÊNCIA: [https://tryhackme.com](https://tryhackme.com)
