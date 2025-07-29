@@ -1,7 +1,8 @@
 # 🧠 Título da Nota
 
 > 🗓️ Data: DD-MM-YYYY
-> 🏷️ Tags: #osint #ferramentas #conceitos #legislação #dica
+
+🏷️ **Tags**: #osint #ferramentas #conceitos #legislação #dica
 
 ---
 
