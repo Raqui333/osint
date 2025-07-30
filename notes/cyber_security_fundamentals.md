@@ -8,7 +8,7 @@
 
 ## 📌 Resumo
 
-Breve resumo do conteúdo da nota. Pode ser uma definição, visão geral ou insight inicial. Ideal para leitura rápida.
+Cyber Security refere-se às práticas, tecnologias e processos usados para proteger sistemas de computadores, redes e dados contra ataques digitais, danos ou acesso não autorizado.
 
 ---
 
@@ -39,3 +39,7 @@ Breve resumo do conteúdo da nota. Pode ser uma definição, visão geral ou ins
   - **Analista de Malware**: Analisa todos os tipos de malware para aprender mais sobre como eles funcionam e o que fazem.
   - **Pentester**: Responsável por testar produtos de tecnologia em busca de brechas de segurança.
   - **Red Teamer**: Desempenha o papel de um adversário, atacando uma organização e fornecendo feedback da perspectiva do inimigo.
+
+## 🛠️ Ferramentas ou sites relacionados
+
+- [DIRB](/tools/dirb.md)
